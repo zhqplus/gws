@@ -12,7 +12,7 @@ if (typeof Object.create !== "function") {
             var base = this;
 
             base.$elem = $(el);
-            base.options = $.extend({}, $.fn.owlCarousel.options, base.$elem.data(), options);
+            base.options = $.extend({   }, $.fn.owlCarousel.options, base.$elem.data(), options);
 
             base.userOptions = options;
             base.loadContent();
