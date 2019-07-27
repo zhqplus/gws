@@ -5,8 +5,8 @@
 .er_m .hx i{ left:215px;}
 .i_ma ul li{ margin-right:10px;}
 .i_ma ul li,.i_ma ul li a{ width:149px; height:149px;}
-.i_ma ul li img{ width:148px; height:148px;}
-/*.i_ma ul li h6{ height:40px; line-height:40px;}*/
+.i_ma ul li img{ width:72px; height:48px; margin-top:15px;}
+.i_ma ul li h6{ height:40px; line-height:40px;}
 .i_mb .i_mbl{ width:268px;}
 .i_mbl .b_head span, .i_mbr .b_head span{ margin-left:10px;}
 .i_mbl ul li p{ margin-left:28px;}
@@ -53,7 +53,7 @@
 .head .nav li{ height:30px;}
 .i_ma ul li, .i_ma ul li a{ width:205px; height:180px;}
 .i_ma ul li{ margin:0 19px 20px;}
-.i_ma ul li img{ width:205px; height:205px;}
+.i_ma ul li img{ width:91px; height:60px; margin-top:25px;}
 .i_mb .i_mbl{ width:378px; margin-left:19px;}
 .i_mb .i_mbr{ width:280px; margin-right:22px;}
 .i_mb .i_mbc{ width:702px; margin-left:19px; margin-top:35px;}
@@ -101,7 +101,7 @@
 .head .nav li a{ width:90%; padding:0 5%; text-align:center; border:0;}
 .i_ma ul li, .i_ma ul li a{ width:148px; height:148px;}
 .i_ma ul li{ margin:0 5px 15px;}
-.i_ma ul li img{ width:147px; height:147px;}
+.i_ma ul li img{ width:72px; height:48px; margin-top:15px;}
 .i_mb .i_mbl{ width:265px; margin-left:5px;}
 .i_mb .i_mbr{ width:193px; margin-right:5px;}
 .tabBox .tabCont .videoRow-box,.videoImg img{ width:183px; height:106px;}
